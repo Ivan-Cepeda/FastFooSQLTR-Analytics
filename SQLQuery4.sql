@@ -15,3 +15,4 @@ RIGHT JOIN Empleados E
 GROUP BY E.Nombre
 ORDER BY [Total Ingreso por Empleado] DESC
 
+/*Importante revisar la optimización con mas datos*/
